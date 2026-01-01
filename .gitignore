@@ -10,3 +10,5 @@ data/processed/**
 
 # Python cache
 __pycache__/
+# Tests
+tests/
