@@ -1,0 +1,12 @@
+# Ignore raw/interim/processed data
+data/raw/**
+
+data/interim/**
+
+data/processed/**
+
+# Archives
+*.zip
+
+# Python cache
+__pycache__/
